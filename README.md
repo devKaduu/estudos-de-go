@@ -16,7 +16,7 @@ Este repositório serve como um guia de estudos e repositório de referência pa
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/estudos-go.git
+   git clone https://github.com/devKaduu/estudos-de-go
    ```
 2. Navegue até o diretório:
    ```sh
